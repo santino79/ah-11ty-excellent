@@ -1,23 +1,55 @@
 ---
 title: About
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'About Alan Hylands'
 layout: page
 ---
 
-This starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template.
+## Who I am.
 
-It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk **'Be the browser’s mentor, not its micromanager'**.
+My name is Alan Hylands and I am a data analyst and [writer](/writing/) from Northern Ireland.
 
-If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
+## What I'm doing now.
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+![Zapier logo image](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760)
 
-- buildexcellentwebsit.es
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-- Study the [original CSS boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate/tree/main)
+In early 2020, I joined [Zapier](https://zapier.com) and am currently a **Staff Data Scientist**.
 
-## Watch the talk
+## What I've done.
 
-<div><custom-youtube @slug="JqnMI1AXl6w" @label="Andy Bell – Be the browser’s mentor, not its micromanager"> </custom-youtube></div>
+I've worked in tech, data and analytics for the past 20+ years - building, reporting, analysing, managing, and mentoring.
+
+I've covered varied sectors, mainly tech, financial services, healthcare, and e-commerce, and have led successful data projects in areas such as exploratory data analysis, customer segmentation and profiling, and customer lifetime value modelling.
+
+## A little more background.
+
+I studied Accounting at university and planned for a future in finance.
+
+Then I found the internet, programming, and databases.
+
+I started my first e-commerce development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research, and content marketing.
+   
+I started a successful football website which gave me the opportunity to write professionally for the New York Times Company. (Want to find out how that came about? Check out my [I Want To Be A Football Writer When I Grow Up](/i-want-to-be-a-football-writer-when-i-grow-up/) article.)
+
+Quite unexpectedly, I was seduced into the corporate world of banking and financial services in the boom-time mid-noughties.
+
+I spent over twelve years running Data and Analytics projects for a large UK and Ireland banking group. I worked my way up through the ranks, from senior data analyst to senior analytics manager to Head of Retail Commercial Excellence.
+
+Then I decided that I'd had enough of management and wanted to get back into doing what I love best - **digging into data and telling stories about what I find**.
+
+And that's what brought me to [Zapier](https://zapier.com).
+
+## Anything else?
+
+I also write articles to help folks become better data analysts, and interview actual real-life data professionals, at [Analysts Assemble](https://analystsassemble.com).
+
+And I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
+
+## Where you can find me.
+
+You can contact by:
+
+- email (alan AT alanhylands DOT com)
+- on this [contact form](/contact/)
+- or take a chance on social media where I (very) occasionally post on [Bluesky](https://bsky.app/profile/alanhylands.com) or [LinkedIn](https://linkedin.com/in/alanhylands).    
 

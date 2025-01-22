@@ -1,11 +1,11 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: "Alan Hylands"
+description: 'Data Analyst and Writer from Northern Ireland..'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Writing'
+  intro: "I'm showing the last 4 articles and essays, but there might be more!"
 ---
 
 <div class="wrapper">
@@ -14,46 +14,36 @@ blog:
       <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
     </div>
 
-    {% svg "divider/waves", null, "seperator" %}
   </header>
 
   <article class="full | region">
     <div class="wrapper flow prose">
-      <h2 id="an-eleventy-starter">An Eleventy starter</h2>
+      <h2 id="an-eleventy-starter">I'm a Data Analyst and Writer<br />from Northern Ireland</h2>
+      <h4>Currently I'm a Staff Data Scientist at <a href="https://zapier.com">Zapier</a></h4>
       <p>
-        Built around a CSS workflow that emphasizes guiding browser styling rather than micromanaging it. It
-        incorporates progressive enhancement, fluid type and spacing, and utilizes modern CSS features for
-        layout. The goal is to develop frontends that provide a great experience across all devices,
-        connection speeds, and usage contexts.
+        I also write articles to help folks become better data analysts, and interview actual real-life data professionals, 
+        at <a href="https://analystsassemble.com">Analysts Assemble</a>.
+        <br /><br />
+        And I help them get started learning SQL with my online <a href="https://sqlcrashcourse.com">SQL Crash Course</a>.
       </p>
+
+      <h3>Writers write.</h3>
       <p>
-        <strong>This is version 4.</strong> I keep a
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v1">branch of v1</a>,
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v2">v2</a> and <a href="https://github.com/madrilene/eleventy-excellent/tree/v3">v3</a>. I  tried to <a href="/get-started/#docs-lol">document most features and methodologies</a>.
+        I have previously been a <a href="/writing/i-want-to-be-a-football-writer-when-i-grow-up/">World Soccer editor</a> for About.com 
+        and The New York Times Company, 
+        and had articles published in <a href="https://towardsdatascience.com/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95">Towards Data Science</a>
+        and <a href="https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c">Hacker Noon</a>.
       </p>
-      <p><strong>Have fun</strong> and let me know if you find any issues or have ideas for improvements!</p>
+      <p>You can read some of my <a href="/writing/">selected essays</a> here on tech, football, life ... and more.</p>
+
+
+      <h3>Want to know more?</h3>
+      <p>
+        See my <a href="/about/">About</a> page for some backstory, and where else you can find or contact me.
+      </p>
+
     </div>
   </article>
 
-  <section class="full | region">
-    <div class="wrapper flow prose">
-      <h2>{{ blog.title }}</h2>
-      <!-- blog intro text is optional. -->
 
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
-      {% endif %}
-
-      <div class="feature |  region region-space-l">
-        <custom-masonry layout="50-50">
-          <!-- loop posts -->
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-						{% set definedDate = item.date %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
-        </custom-masonry>
-      </div>
-    </div>
-  </section>
 </div>

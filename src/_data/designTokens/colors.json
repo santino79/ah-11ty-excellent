@@ -48,7 +48,7 @@
     },
     {
       "name": "Blue",
-      "value": "#4467dd"
+      "value": "#132257"
     },
     {
       "name": "Blue Subdued",
@@ -61,6 +61,14 @@
     {
       "name": "Gold Subdued",
       "value": "#f1c15b"
+    },
+    {
+      "name": "Green",
+      "value": "#27742c"
+    },
+    {
+      "name": "Green Subdued",
+      "value": "#0C6411"
     }
   ]
 }

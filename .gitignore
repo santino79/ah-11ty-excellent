@@ -11,3 +11,8 @@ src/_includes/scripts
 
 # secret data
 .env
+
+# DS Store
+.DS_Store
+src/.DS_Store
+src/assets/.DS_Store
