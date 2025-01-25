@@ -7,6 +7,10 @@ export default {
     {
       text: 'Writing',
       url: '/writing/'
+    },
+    {
+      text: 'Courses',
+      url: '/courses/'
     }
   ],
   bottom: [

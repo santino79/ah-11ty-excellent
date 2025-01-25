@@ -1,8 +1,13 @@
 ---
 layout: base
 ---
+  <header class="full | section" style="--spot-color: var(--color-secondary)">
+    <div class="section__inner flow region">
+      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
+    </div>
+
+  </header>
 
 <article class="region wrapper flow prose" style="--region-space-top: var(--space-xl-2xl)">
-  <h1 class="gradient-text">{{ title }}</h1>
   {{ content | safe }}
 </article>

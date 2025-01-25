@@ -13,7 +13,7 @@ My name is Alan Hylands and I am a data analyst and [writer](/writing/) from Nor
 
 ![Zapier logo image](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760)
 
-In early 2020, I joined [Zapier](https://zapier.com) and am currently a **Staff Data Scientist**.
+I joined [Zapier](https://zapier.com) in early 2020, and am currently a **Staff Data Scientist**.
 
 ## What I've done.
 
@@ -41,7 +41,7 @@ And that's what brought me to [Zapier](https://zapier.com).
 
 ## Anything else?
 
-I also write articles to help folks become better data analysts, and interview actual real-life data professionals, at [Analysts Assemble](https://analystsassemble.com).
+I also write [data articles](/tags/Data/) to help folks become better data analysts, and [interview](/tags/Interviews/) actual real-life data professionals to find what really makes them tick.
 
 And I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
 
