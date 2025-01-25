@@ -6,16 +6,14 @@ pagination:
   alias: tag
 permalink: /tags/{{ tag }}/
 eleventyComputed:
-  title: '{{ meta.blog.tagSingle }}: {{ tag }}'
+  title: "{{ tag }}"
 ---
 
-<custom-masonry layout="50-50">
   {% set itemList = collections[tag] | reverse %}
   {% for item in itemList %}
 
-		{% include "partials/card-tag.njk" %}
+		{% include "partials/post-list.njk" %}
   {% endfor %}
-</custom-masonry>
 
 <h2 class="text-step-2">{{ meta.blog.tagMore }}</h2>
 
