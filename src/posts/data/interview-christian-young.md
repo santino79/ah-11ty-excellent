@@ -2,7 +2,7 @@
 title: Q&A with Christian Young, Senior Data Analyst / Team Lead at Xero
 date: 2019-04-23
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/christian-young.jpg'
 alt: ‘Christian Young'
 ---

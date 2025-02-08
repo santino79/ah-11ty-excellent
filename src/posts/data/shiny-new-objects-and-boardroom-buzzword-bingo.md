@@ -2,7 +2,7 @@
 title: Shiny New Objects and Boardroom Buzzword Bingo
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/shiny-ball.jpg'
 alt: ‘Shiny ball'
 ---

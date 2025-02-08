@@ -2,7 +2,7 @@
 title: WTF Is Data Wrangling?
 date: 2018-03-20
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/hoover-confetti.jpg'
 alt: 'Hoover and confetti'
 ---

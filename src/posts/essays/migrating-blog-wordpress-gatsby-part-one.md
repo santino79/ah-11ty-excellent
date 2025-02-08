@@ -4,7 +4,7 @@ description: ''
 date: 2019-04-29
 image: '/assets/images/blog//leo-gatsby.jpg'
 alt: 'Leonardo di Caprio as Jay Gatsby'
-tags: ['Tech','Essays']
+tags: ['tech','essays']
 ---
 ## Where it began.
 

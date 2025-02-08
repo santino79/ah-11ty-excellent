@@ -2,7 +2,7 @@
 title: Q&A with Samir Abid, Professional Sports Analytics Consultant
 date: 2019-03-10
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/samir_hoodie_smile.jpg'
 alt: Samir Abi‘'
 ---

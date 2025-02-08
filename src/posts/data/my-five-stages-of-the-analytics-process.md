@@ -2,7 +2,7 @@
 title: My Five Stages Of The Analytics Process
 date: 2018-02-17
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/post-it-notes.jpg'
 alt: ‘Post-it notes'
 ---

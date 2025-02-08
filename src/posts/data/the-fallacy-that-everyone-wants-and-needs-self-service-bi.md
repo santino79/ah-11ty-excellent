@@ -2,7 +2,7 @@
 title: The Fallacy That Everyone Wants (And Needs) Self Service BI
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/barn-tools.jpg'
 alt: 'Tools in a barn'
 ---

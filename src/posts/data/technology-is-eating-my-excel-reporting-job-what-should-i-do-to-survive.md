@@ -2,7 +2,7 @@
 title: Technology Is Eating My Excel Reporting Job, What Should I Do To Survive?
 date: 2018-04-13
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/phone-cake-coffee.jpg'
 alt: 'Phone cake coffee'
 ---

@@ -4,7 +4,7 @@ description: ''
 date:   2019-08-19
 image: '/assets/images/blog/VAR-1200x600.jpg'
 alt: 'VAR logo on football scoreboard'
-tags: ['Football','Essays']
+tags: ['football','essays']
 ---
 ## So I dub thee Unforgiven.
 

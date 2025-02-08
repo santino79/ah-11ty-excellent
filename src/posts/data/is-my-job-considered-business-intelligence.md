@@ -2,7 +2,7 @@
 title: Is My Job Considered Business Intelligence?
 date: 2018-03-09
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/laptop-pen.jpg'
 alt: ‘Laptop and pen'
 ---

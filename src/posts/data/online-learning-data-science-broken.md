@@ -2,7 +2,7 @@
 title: "The MOOC System Is Broken. Where Does Online Learning For Data Science Skills Go Next?"
 date: 2018-12-08
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/hand-pen-study.jpg'
 alt: ‘Hand pen study'
 ---

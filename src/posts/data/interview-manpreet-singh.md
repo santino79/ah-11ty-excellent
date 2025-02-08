@@ -2,7 +2,7 @@
 title: Q&A with Manpreet Singh, Analytics Lead and Forecasting Specialist
 date: 2019-11-10
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/manpreet-singh.jpg'
 alt: ‘Manpreet Singh'
 ---

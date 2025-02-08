@@ -2,7 +2,7 @@
 title: Looking On The Bright Side...And Making Your Decision
 date: 2024-11-14
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/levi-guzman-zdSoe8za6Hs-unsplash.jpg'
 alt: ‘3 people celebrating in silhouette against a sunset'
 ---

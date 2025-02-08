@@ -4,7 +4,7 @@ description: ''
 date:   2018-09-24
 image: '/assets/images/blog/graveyard.jpg'
 alt: 'Picture of a graveyeard' 
-tags: ['Personal','Essays']
+tags: ['personal','essays']
 ---
 ## The Boneyard Of Unfinished Projects.
 

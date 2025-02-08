@@ -2,7 +2,7 @@
 title: Q&A with Justin Butlion, Entrepreneur and Analytics Specialist
 date: 2019-03-24
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/Justin-Butlion1.jpg'
 alt: ‘Justin Butlion'
 ---

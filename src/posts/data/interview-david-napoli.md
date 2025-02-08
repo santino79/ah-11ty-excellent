@@ -2,7 +2,7 @@
 title: Q&A with David Napoli, Healthcare Analytics & Data Viz Consultant (and Recovering Rocket Scientist)
 date: 2019-11-18
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/david-napoli.jpg'
 alt: ‘David Napoli'
 ---

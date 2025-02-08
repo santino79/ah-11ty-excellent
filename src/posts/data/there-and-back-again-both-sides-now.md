@@ -2,7 +2,7 @@
 title: I've Looked At Life From Both Sides Now
 date: 2024-03-30
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/zbynek-burival-8iZG31eXkks-unsplash.jpg'
 alt: 'Clouds'
 ---

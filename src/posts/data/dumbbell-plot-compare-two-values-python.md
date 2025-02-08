@@ -2,7 +2,7 @@
 title: Comparing Two Values With A Dumbbell Plot In Python, Pandas and Matplotlib
 date: 2019-10-08
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/dumbbell.jpg'
 alt: ‘Dumbbell'
 ---

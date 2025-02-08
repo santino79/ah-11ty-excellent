@@ -2,7 +2,7 @@
 title: WTF Is Web Scraping?
 date: 2018-11-03
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/html_screen.jpg'
 alt: 'HTML on a screen'
 ---

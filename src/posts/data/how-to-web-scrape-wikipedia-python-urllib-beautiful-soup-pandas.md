@@ -2,7 +2,7 @@
 title: How To Web Scrape Wikipedia Using Python, Urllib, Beautiful Soup and Pandas
 date: 2018-11-03
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/screen-scrape-tutorial_800w.jpg'
 alt: ‘Code on screen'
 ---

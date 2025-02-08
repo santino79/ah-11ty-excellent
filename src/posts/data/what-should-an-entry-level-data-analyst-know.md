@@ -2,7 +2,7 @@
 title: What Should An Entry Level Data Analyst Know?
 date: 2018-02-09
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/start-line.jpg'
 alt: 'Start Line'
 ---

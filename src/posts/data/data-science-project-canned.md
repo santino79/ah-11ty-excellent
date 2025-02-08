@@ -2,7 +2,7 @@
 title: What Should I Do When My Data Science Project Gets Canned?
 date: 2019-08-20
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/multicoloured-bins.jpg'
 alt: ‘Multi-colored bins'
 ---

@@ -4,7 +4,7 @@ description: ''
 date:   2021-02-06
 image: '/assets/images/blog/11ty-logo.jpg'
 alt: '11ty Logo'
-tags: ['Tech','Essays']
+tags: ['tech','essays']
 ---
 It's something of an unwritten rule that the best way to get over procrastination on writing new material for your personal website is to rip it all to pieces and port the remains to a new Static Site Generator instead.
 

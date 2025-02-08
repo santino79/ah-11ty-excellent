@@ -4,7 +4,7 @@ description: ''
 date:   2019-01-14
 image: '/assets/images/blog/private-red-door.jpg'
 alt: 'A red door with the word private on it.'
-tags: ['Personal','Essays']
+tags: ['personal','essays']
 ---
   
 I grew up in the dim and distant 1980s. Back then, it would have been absolutely unthinkable for a parent to print out hundreds of copies of every photo they took of their kids and send them out to every Tom, Dick or Harry they had a vague connection to.

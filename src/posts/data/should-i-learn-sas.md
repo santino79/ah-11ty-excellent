@@ -2,7 +2,7 @@
 title: Should I Bother Learning SAS Instead Of Python or R?
 date: 2019-04-19
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/sas-logo.jpg'
 alt: ‘SAS logo'
 ---

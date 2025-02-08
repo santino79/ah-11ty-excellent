@@ -2,7 +2,7 @@
 title: Q&A with Helen Anderson, BI Data Analyst and Technical Consultant
 date: 2019-02-24
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/helen_anderson.jpg'
 alt: ‘Helen Anderson'
 ---

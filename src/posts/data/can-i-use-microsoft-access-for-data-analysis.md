@@ -2,7 +2,7 @@
 title: Can I Use Microsoft Access For Data Analysis?
 date: 2018-02-20
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/msaccess.png'
 alt: ‘MS Access'
 ---

@@ -2,7 +2,7 @@
 title: Should I Feel Nervous That The Data World Is Changing At A Faster And Faster Pace And I Can't Keep Up?
 date: 2018-03-12
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/nervous-man.jpg'
 alt: ‘Nervous man'
 ---

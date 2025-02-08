@@ -2,7 +2,7 @@
 title: Picking Your Big 5 KPIs To Measure Corporate Business Success
 date: 2018-09-02
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/cactus-measuretape.jpg'
 alt: ‘Cactus and measuring tape'
 ---

@@ -2,7 +2,7 @@
 title: Data-Driven Tech Needs An Ethical Revolution
 date: 2019-09-12
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/change-neon-sign.jpg'
 alt: ‘Change neon sign'
 ---

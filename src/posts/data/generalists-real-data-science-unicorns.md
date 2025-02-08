@@ -2,7 +2,7 @@
 title: Generalists Are The Real Data Science Unicorns
 date: 2019-02-10
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/unicorn-mug.jpg'
 alt: ‘Unicorn mug'
 ---

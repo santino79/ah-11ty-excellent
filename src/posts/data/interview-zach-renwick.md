@@ -2,7 +2,7 @@
 title: Q&A with Zach Renwick, Business Intelligence Developer
 date: 2019-04-14
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/zach_renwick.jpg'
 alt: ‘Zach Renwick'
 ---

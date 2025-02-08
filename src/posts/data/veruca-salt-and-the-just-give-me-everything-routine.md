@@ -2,7 +2,7 @@
 title: Veruca Salt And The Just Give Me Everything Routine
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/i_want_it_now.jpg'
 alt: 'Veruca Salt'
 ---

@@ -2,7 +2,7 @@
 title: Q&A with Michael Kaminsky, Writer, Data Strategist and Entrepreneur
 date: 2019-09-28
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/michael-kaminsky.jpg'
 alt: ‘Michael Kaminsky'
 ---

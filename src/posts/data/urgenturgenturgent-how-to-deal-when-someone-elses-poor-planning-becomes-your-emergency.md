@@ -2,7 +2,7 @@
 title: URGENT! URGENT! URGENT! How To Deal When Someone Else's Poor Planning Becomes Your Emergency
 date: 2018-04-06
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/face-smoke.jpg'
 alt: 'Face and smoke'
 ---

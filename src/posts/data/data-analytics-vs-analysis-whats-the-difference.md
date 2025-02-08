@@ -2,7 +2,7 @@
 title: Data Analytics vs. Analysis – What's The Difference?
 date: 2018-02-17
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/laptops.jpg'
 alt: ‘Laptops'
 ---

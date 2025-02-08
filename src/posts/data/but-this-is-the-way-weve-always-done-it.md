@@ -2,7 +2,7 @@
 title: But This Is The Way We've Always Done It
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/change-neon-sign.jpg'
 alt: ‘Neon Change sign'
 ---

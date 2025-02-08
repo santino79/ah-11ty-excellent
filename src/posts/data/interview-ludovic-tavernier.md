@@ -2,7 +2,7 @@
 title: Q&A with Ludovic Tavernier, Data Consultant and Data Visualization Lead
 date: 2019-09-21
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/ludovic-tavernier.jpg'
 alt: ‘Ludovic Tavernier'
 ---

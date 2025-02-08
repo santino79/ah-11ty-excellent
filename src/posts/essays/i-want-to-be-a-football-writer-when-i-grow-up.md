@@ -2,7 +2,7 @@
 title: 'I Want To Be A Football Writer When I Grow Up'
 description: ''
 date: 2018-08-09
-tags: ['Writing','Football','Essays']
+tags: ['writing','football','essays']
 image: '/assets/images/blog/world-cup.jpg'
 alt: 'The FIFA World Cup trophy being help up.'
 ---

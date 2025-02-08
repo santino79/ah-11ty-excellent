@@ -2,7 +2,7 @@
 title: Q&A with Katie Kodes, Salesforce and Python Integrations Programmer
 date: 2019-04-07
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/katie-kodes_600W_upd.png'
 alt: ‘Katie Kodes'
 ---
