@@ -2,7 +2,7 @@
 title: WTF Is A Data Lake?
 date: 2018-09-14
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/data-lake.jpg'
 alt: 'Data Lake'
 ---

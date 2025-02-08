@@ -2,7 +2,7 @@
 title: The Five Elements Of The Data Science Unicorn
 date: 2024-01-23
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/number-five-tile.jpg'
 alt: ‘Number five tile'
 ---

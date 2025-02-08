@@ -2,7 +2,7 @@
 title:  'Forty and Fabulous: Who Needs A Mid-Life Crisis Anyway?'
 date:   2019-02-10
 description: ''
-tags: ['Personal','Essays']
+tags: ['personal','essays']
 image: '/assets/images/blog/birthday-cake.jpg'
 alt: 'Birthday cake.'
 ---

@@ -2,7 +2,7 @@
 title: 'Best SQL Online Courses, Training, Resources and Tutorials'
 date: 2019-08-11
 description: ''
-tags: ['Data']
+tags: ['data']
 ---
 ## What is SQL?
 

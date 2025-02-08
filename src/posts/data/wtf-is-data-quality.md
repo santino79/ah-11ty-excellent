@@ -2,7 +2,7 @@
 title: WTF Is Data Quality?
 date: 2019-10-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/quality-street-sign.png'
 alt: 'Quality Street'
 ---

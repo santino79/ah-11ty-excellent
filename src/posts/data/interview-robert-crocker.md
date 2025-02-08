@@ -2,7 +2,7 @@
 title: Q&A with Robert Crocker, Tableau and Data Visualization Consultant
 date: 2019-03-31
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/robert-crocker.jpg'
 alt: ‘Robert Crocker'
 ---

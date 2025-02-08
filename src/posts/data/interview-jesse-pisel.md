@@ -2,7 +2,7 @@
 title: Q&A with Jesse Pisel, Geo-Data Scientist
 date: 2019-03-17
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/jesse_pisel.jpg'
 alt: ‘Jesse Pisel'
 ---

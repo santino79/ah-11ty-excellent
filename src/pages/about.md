@@ -41,7 +41,7 @@ And that's what brought me to [Zapier](https://zapier.com).
 
 ## Anything else?
 
-I also write [data articles](/tags/Data/) to help folks become better data analysts, and [interview](/tags/Interviews/) actual real-life data professionals to find what really makes them tick.
+I also write [data articles](/tags/data/) to help folks become better data analysts, and [interview](/tags/interviews/) actual real-life data professionals to find what really makes them tick.
 
 And I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
 

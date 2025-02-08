@@ -2,7 +2,7 @@
 title: How Do I Prioritise When Everything Is Top Priority?
 date: 2018-08-18
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/train-rain-sleep.jpg'
 alt: ‘Train rain sleep'
 ---

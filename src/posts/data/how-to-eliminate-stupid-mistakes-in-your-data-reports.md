@@ -2,7 +2,7 @@
 title: How To Eliminate Stupid Mistakes In Your Data Reports
 date: 2018-04-19
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/failedit-book.jpg'
 alt: ‘Failed It book'
 ---

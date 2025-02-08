@@ -2,7 +2,7 @@
 title: How Much Experience Do I Really Need For An Entry Level Data Analyst Role?
 date: 2018-03-23
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/sky-ladder.jpg'
 alt: ‘Sky ladder'
 ---

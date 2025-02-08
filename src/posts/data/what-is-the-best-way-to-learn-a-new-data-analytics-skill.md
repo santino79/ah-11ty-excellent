@@ -2,7 +2,7 @@
 title: What Is The Best Way To Learn A New Data Analytics Skill?
 date: 2018-03-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/library-lights.jpg'
 alt: 'Library lights'
 ---

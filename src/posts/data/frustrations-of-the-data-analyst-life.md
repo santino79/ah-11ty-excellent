@@ -2,7 +2,7 @@
 title: Frustrations Of The Data Analyst Life…And How To Fix Them
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/frustrated-monkey.jpg'
 alt: ‘Frustrated monkey'
 ---

@@ -2,7 +2,7 @@
 title: How To Deal With The Urgent! Urgent! Urgent! Boy Who Cried Wolf
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/wolf-snow.jpg'
 alt: 'Wolf in snow'
 ---

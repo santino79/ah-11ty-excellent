@@ -2,7 +2,7 @@
 title: There And Back Again - A Data Career Journey
 date: 2024-03-29
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/rob-wicks-yVuRzuqArkg-unsplash.jpg'
 alt: 'One way sign lying on the ground'
 ---

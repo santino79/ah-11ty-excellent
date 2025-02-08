@@ -2,7 +2,7 @@
 title: Q&A with Randy Au, Quantitative UX Researcher
 date: 2019-03-03
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/randy_au.jpg'
 alt: ‘Randy Au'
 ---

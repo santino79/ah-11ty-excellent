@@ -2,7 +2,7 @@
 title: 10 Ways To Get Active In The Data Community
 date: 2019-08-31
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/hands-group-huddle.jpg'
 alt: 'Hands in a group huddle'
 ---

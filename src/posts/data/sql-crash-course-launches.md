@@ -2,7 +2,7 @@
 title: Presenting...SQL Crash Course
 date: 2019-09-09
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/sql-crash-course.png'
 alt: 'SQL Crash Course'
 ---

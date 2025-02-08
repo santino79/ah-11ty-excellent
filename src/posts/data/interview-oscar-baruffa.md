@@ -2,7 +2,7 @@
 title: Q&A with Oscar Baruffa, Sustainability Professional and Data Specialist
 date: 2019-10-14
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/oscar_baruffa.jpg'
 alt: ‘Oscar Baruffa'
 ---

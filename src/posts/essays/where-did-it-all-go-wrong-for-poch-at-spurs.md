@@ -4,7 +4,7 @@ description: ''
 date:   2019-11-20
 image: '/assets/images/blog/poch-cry-pitch.jpg'
 alt: 'Mauricio Pochettino crying on the pitch' 
-tags: ['Football','Essays']
+tags: ['football','essays']
 ---
 > “We will try to give everything to make you proud of this football club.” - Mauricio Pochettino at his first Spurs press conference.
 

@@ -2,7 +2,7 @@
 title: How To Build Your Data Science Career Change Action Plan
 date: 2024-01-23
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/white-typewriter-coffee.jpg'
 alt: ‘White typewriter and coffee'
 ---

@@ -2,7 +2,7 @@
 title: Q&A with Wesley Engers, Data Science, Math and Statistical Consultant
 date: 2019-10-19
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/wesley_engers.jpg'
 alt: ‘Wesley Engers'
 ---

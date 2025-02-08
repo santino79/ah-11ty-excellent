@@ -4,7 +4,7 @@ description: ''
 date:   2019-05-18
 image: '/assets/images/blog/f-scott-gatsby.jpg'
 alt: 'Great Gatsby book cover'
-tags: ['Tech','Essays']
+tags: ['tech','essays']
 ---
 I wrote in [Part One](/migrating-blog-wordpress-gatsby-part-one/) about finally biting the bullet and giving Gatsby a go. Having dipped my toe in it's delectable waters I knew full well that it was only a matter of time before I went deeper down the rabbit hole.
 

@@ -2,7 +2,7 @@
 title: Is SQL Really A Game Changer For Data Science Careers?
 date: 2018-12-09
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/cards-chips.jpg'
 alt: ‘Cards and poker chips'
 ---

@@ -2,7 +2,7 @@
 title: WTF Is Business Analytics?
 date: 2019-10-05
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/laptop-dashboard.jpg'
 alt: 'Dashboard on a laptop'
 ---

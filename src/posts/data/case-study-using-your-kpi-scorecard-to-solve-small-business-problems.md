@@ -2,7 +2,7 @@
 title: "Case Study: Using Your KPI Scorecard To Solve Small Business Problems"
 date: 2018-09-09
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/tape-measure.jpg'
 alt: ‘Tape Measure'
 ---

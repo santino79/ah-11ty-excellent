@@ -2,7 +2,7 @@
 title: Are MOOCs Credible Enough To Get You A Data Science Job?
 date: 2019-04-24
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/spiderman-reading.jpg'
 alt: ‘Spiderman reading a book'
 ---

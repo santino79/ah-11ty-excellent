@@ -2,7 +2,7 @@
 title: Which Degree Course Should I Choose For A Career As A Data Analyst?
 date: 2018-03-29
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/uni-grad.jpg'
 alt: 'University graduate'
 ---

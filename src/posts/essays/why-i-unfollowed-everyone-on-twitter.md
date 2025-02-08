@@ -4,7 +4,7 @@ description: ''
 date: 2022-01-08
 image: '/assets/images/blog/twitter-banner.png'
 alt: 'Twitter banner'
-tags: ['Tech','Essays']
+tags: ['tech','essays']
 ---
 **UPDATE: As of early November 2024, I've given up on Twitter altogether. You can fill in the blanks for the reasons why. I now reside over at [Bluesky](https://bsky.app/profile/alanhylands.com) instead where I am currently curating some new lists to doomscroll over instead.**
 

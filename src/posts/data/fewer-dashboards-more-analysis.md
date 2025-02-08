@@ -2,7 +2,7 @@
 title: Fewer Dashboards, More Analysis
 date: 2024-01-23
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/black-dashboard.jpg'
 alt: ‘Black dashboard'
 ---

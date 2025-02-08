@@ -2,7 +2,7 @@
 title: Q&A with Martin Weiss, Analytical Consultant and Project Manager
 date: 2019-04-23
 description: ''
-tags: ['Data', 'Interviews']
+tags: ['data', 'interviews']
 image: '/assets/images/blog/martin_weiss.jpg'
 alt: ‘Martin Weiss'
 ---

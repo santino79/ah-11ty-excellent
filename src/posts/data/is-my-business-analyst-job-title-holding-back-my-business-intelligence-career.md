@@ -2,7 +2,7 @@
 title: Is My Business Analyst Job Title Holding Back My Business Intelligence Career?
 date: 2018-02-24
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/woman-trapped-window.jpg'
 alt: ‘Woman trapped in a window'
 ---

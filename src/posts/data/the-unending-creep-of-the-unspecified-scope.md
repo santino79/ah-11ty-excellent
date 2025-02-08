@@ -2,7 +2,7 @@
 title: The Unending Creep Of The Unspecified Scope
 date: 2018-05-16
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/columbo.jpg'
 alt: 'Columbo'
 ---

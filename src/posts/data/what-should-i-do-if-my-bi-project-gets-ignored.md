@@ -2,7 +2,7 @@
 title: What Should I Do If My BI Project Gets Ignored?
 date: 2018-08-26
 description: ''
-tags: ['Data']
+tags: ['data']
 image: '/assets/images/blog/man-dark-blinds.jpg'
 alt: 'Man in the dark with blinds'
 ---
