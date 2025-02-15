@@ -6,7 +6,7 @@ tags: ['data']
 image: '/assets/images/blog/columbo.jpg'
 alt: 'Columbo'
 ---
-> **_This is part 5 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)&#8220;_**
+> **_This is part 5 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them/)&#8220;_**
 
 ## So who are we dealing with here?
 

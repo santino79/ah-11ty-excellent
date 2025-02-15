@@ -30,9 +30,9 @@ Let's release those inner demons of the data analyst life, put some names on our
 
 ### Contents
 
-  1. [Veruca Salt And The Just Give Me Everything Routine](/veruca-salt-and-the-just-give-me-everything-routine)
-  2. [The Fallacy That Everyone Wants (And Needs) Self Service BI](/the-fallacy-that-everyone-wants-and-needs-self-service-bi)
-  3. [The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/how-to-deal-with-the-urgent!-urgent!-urgent!-boy-who-cried-wolf)
-  4. [Shiny New Objects and Boardroom Buzzword Bingo](/shiny-new-objects-and-boardroom-buzzword-bingo)
-  5. [The Unending Creep Of The Unspecified Scope](/the-unending-creep-of-the-unspecified-scope)
-  6. [But This Is The Way We've Always Done It](/but-this-is-the-way-weve-always-done-it)
+  1. [Veruca Salt And The Just Give Me Everything Routine](/veruca-salt-and-the-just-give-me-everything-routine/)
+  2. [The Fallacy That Everyone Wants (And Needs) Self Service BI](/the-fallacy-that-everyone-wants-and-needs-self-service-bi/)
+  3. [The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/how-to-deal-with-the-urgent-urgent-urgent-boy-who-cried-wolf/)
+  4. [Shiny New Objects and Boardroom Buzzword Bingo](/shiny-new-objects-and-boardroom-buzzword-bingo/)
+  5. [The Unending Creep Of The Unspecified Scope](/the-unending-creep-of-the-unspecified-scope/)
+  6. [But This Is The Way We've Always Done It](/but-this-is-the-way-weve-always-done-it/)

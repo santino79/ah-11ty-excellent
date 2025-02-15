@@ -6,7 +6,7 @@ tags: ['data']
 image: '/assets/images/blog/change-neon-sign.jpg'
 alt: ‘Neon Change sign'
 ---
-> **_This is part 6 of a six part series titled [Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)_**
+> **_This is part 6 of a six part series titled [Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them/)_**
 
 ## Something Just Ain&#8217;t Right Here
 

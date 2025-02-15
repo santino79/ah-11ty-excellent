@@ -8,7 +8,7 @@ alt: 'Wolf in snow'
 ---
 > **_This is part 3 of a six part series titled &#8220;Frustrations of the Data Analyst Life&#8230;And How To Fix Them&#8221;_**
 
-I've covered this one off at length in [another article](/urgent!-urgent!-urgent!-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency) including how to try and fix the noxious behaviour but it really never ceases to grind my gears.
+I've covered this one off at length in [another article](/urgent-urgent-urgent-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency/) including how to try and fix the noxious behaviour but it really never ceases to grind my gears.
 
 You&#8217;ll know these people because they pull the same stunts over and over and over again.
 
@@ -25,7 +25,7 @@ If it's all starting to sound like an abusive relationship that's because it is.
 
 It's a form of mental abuse, often going hand in hand with **gaslighting** (“I never said that”, ”that's not what we agreed on the phone”,”I thought you said…” etc. etc.) and is a terrible situation to be put in regardless of being paid to do it or not.
 
-I did cover some strategies and tactics for working the situation out in my [Urgent!Urgent!Urgent! article](/urgent!-urgent!-urgent!-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency) but it doesn't stop it being a mental drain every time it happens.
+I did cover some strategies and tactics for working the situation out in my [Urgent!Urgent!Urgent! article](/urgent-urgent-urgent-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency/) but it doesn't stop it being a mental drain every time it happens.
 
 ## Some top tips to survive:
 
