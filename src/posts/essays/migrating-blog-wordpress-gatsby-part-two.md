@@ -6,7 +6,7 @@ image: '/assets/images/blog/f-scott-gatsby.jpg'
 alt: 'Great Gatsby book cover'
 tags: ['tech','essays']
 ---
-I wrote in [Part One](/migrating-blog-wordpress-gatsby-part-one/) about finally biting the bullet and giving Gatsby a go. Having dipped my toe in it's delectable waters I knew full well that it was only a matter of time before I went deeper down the rabbit hole.
+I wrote in [Part One](/migrating-my-blog-from-wordpress-to-gatsby-part-1/) about finally biting the bullet and giving Gatsby a go. Having dipped my toe in it's delectable waters I knew full well that it was only a matter of time before I went deeper down the rabbit hole.
 
 So I spent a couple of weeks converting my main data and analytics site Simple Analytical to Gatsby from Wordpress. Yes, there is an element of yak shaving in there.
 

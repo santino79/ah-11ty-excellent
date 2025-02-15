@@ -44,7 +44,7 @@ All rotten with money and all (quite rightfully) shit scared of the heavy hand o
 
 **Shiny New Object Chasing Management.**
 
-A [particular favourite](shiny-new-objects-and-boardroom-buzzword-bingo) of mine. They follow the trends in business magazines just long enough to kick projects off when the buzzwords are hot but not long enough to see them through to a proper conclusion.
+A [particular favourite](/shiny-new-objects-and-boardroom-buzzword-bingo/) of mine. They follow the trends in business magazines just long enough to kick projects off when the buzzwords are hot but not long enough to see them through to a proper conclusion.
 
 Brought in to staff a Big Data team in Hadoop last year? Sorry pal, budget removed. We're all doing AI this season, hadn't you heard?
 

@@ -167,7 +167,7 @@ TL;DR she not only shows how it's possible but also recommends it: _not even onc
 
 ![Loser light](/assets/images/blog/loser-light.jpg)
 
-My original post on this is titled [Becoming An Analytics Manager Isn't A Promotion. It's A Career Change](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/).
+My original post on this is titled [Becoming An Analytics Manager Isn't A Promotion. It's A Career Change](/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/).
 
 I'm going to caveat that. It _shouldn't_ be seen as a promotion. That it _is_ at <strike>many</strike> most companies is a **damnable indictment** of poor corporate and organizational culture.
 

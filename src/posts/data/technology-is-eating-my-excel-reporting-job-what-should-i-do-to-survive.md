@@ -8,7 +8,7 @@ alt: 'Phone cake coffee'
 ---
 ## The robots are coming for us.
 
-[I've written before](/should-i-feel-nervous-that-the-data-world-is-changing) about the gnawing anxiety many of us feel about the threat of technological change engulfing us all. This is more applicable to those of us working in technology-centric jobs But there are few areas these days that aren't under threat from the terror of being **automated out of existence**.
+[I've written before](/should-i-feel-nervous-that-the-data-world-is-changing-at-a-faster-and-faster-pace-and-i-cant-keep-up/) about the gnawing anxiety many of us feel about the threat of technological change engulfing us all. This is more applicable to those of us working in technology-centric jobs But there are few areas these days that aren't under threat from the terror of being **automated out of existence**.
 
 The technological change doesn't have to be as high tech and innovative as self-driving cars or robotic assembly lines. In analytics and business intelligence it could be as straightforward as a new BI platform replacing the manual production of reports.
 

@@ -67,4 +67,4 @@ The best places these days are:
 2. **Newsletter** for updates about my side projects in R: https://tinyletter.com/OscarBaruffa - the latest project is a book about Twitter for R programmers :D
 3. **LinkedIn** if you want to connect and keep in touch that way:  https://linkedin.com/in/oscarbaruffa/ 
 4. **Youtube** - my YouTube channel is called [Other People's RStats](https://www.youtube.com/channel/UCR8mJqIRE57XyqSC4UJ2fFg)
-5. **My blog** - [OscarBaruffa.com](www.oscarbaruffa.com)
+5. **My blog** - [OscarBaruffa.com](https://www.oscarbaruffa.com)

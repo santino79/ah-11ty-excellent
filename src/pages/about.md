@@ -50,6 +50,5 @@ And I help them get started learning SQL with my online [SQL Crash Course](https
 You can contact by:
 
 - email (alan AT alanhylands DOT com)
-- on this [contact form](/contact/)
 - or take a chance on social media where I (very) occasionally post on [Bluesky](https://bsky.app/profile/alanhylands.com) or [LinkedIn](https://linkedin.com/in/alanhylands).    
 

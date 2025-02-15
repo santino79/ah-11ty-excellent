@@ -6,7 +6,7 @@ tags: ['data']
 image: '/assets/images/blog/zbynek-burival-8iZG31eXkks-unsplash.jpg'
 alt: 'Clouds'
 ---
-_This is Part 3 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again._
+_This is Part 3 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and why we might think about going [back to Individual Contributor](/there-and-back-again-a-data-career-journey/) again._
 
 ### Quick Recap
 
@@ -22,7 +22,7 @@ Like anything in life, there are wins and losses, ups and downs. But if we put a
 
 We have to be fully armed with the potential downsides. So let's take a run through what can go wrong with the move **back to IC from data manager** first.
 
-And then, in [Part 4](/looking-on-the-brightsideand-making-your-decision/), we'll do the positive ending to bring this all home.
+And then, in [Part 4](/looking-on-the-bright-sideand-making-your-decision/), we'll do the positive ending to bring this all home.
 
 What can go very right? What are the reasons we'd do it, even in the face of adversity and potential disaster? And, ultimately, why none of this should be a reason to lose sleep unnecessarily in the first place.
 
