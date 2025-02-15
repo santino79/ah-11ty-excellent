@@ -8,7 +8,7 @@ alt: ‘Number five tile'
 ---
 ## You pushing your Generalist agenda again?
 
-I've written before that I believe that [generalists are the real data science unicorns](/articles/generalists-are-the-real-data-science-unicorns/).
+I've written before that I believe that [generalists are the real data science unicorns](/generalists-are-the-real-data-science-unicorns/).
 
 Especially when you are running a small company or early stage startup. Their mix of skills, and ability to roll with the punches, are invaluable as we get a never-ending tidal wave of rapidly changing data demands crashing over us.
 
@@ -32,7 +32,7 @@ These are the five main elements I look for when chasing my own particular data 
 
 Having knowledge of setting up and looking after relational databases is vital. Doesn't particularly matter whether it's SQL Server, Oracle or PostgreSQL. The underlying concepts and skills can be ported from one particular technology to another and this is a strand you will see coming up in some of the subsequent skill-sets.
 
-Knowledge of SQL is therefore #1 on my [list of must-have skills](/is-sql-really-a-game-changer-for-data-science-careers) regardless of the seniority of the role I am recruiting for.
+Knowledge of SQL is therefore #1 on my [list of must-have skills](/is-sql-really-a-game-changer-for-data-science-careers/) regardless of the seniority of the role I am recruiting for.
 
 Knowing how to take data out of a database, change it and put it back in somewhere else is so fundamental as to be a given. Long term if you find that the arena of ETL, data management, data cleansing and aggregation is your chosen home then you'll be prime material for becoming a Data Engineer.
 

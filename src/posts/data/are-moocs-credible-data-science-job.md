@@ -30,7 +30,7 @@ It's all there for us. MOOCs are the large scale embodiment of that available kn
 
 ## What are the downsides of using MOOCs?
 
-I've [written before](/online-learning-data-science-broken/) that the biggest problem with MOOCs is that we don't actually use them to their full potential.
+I've [written before](/the-mooc-system-is-broken-where-does-online-learning-for-data-science-skills-go-next/) that the biggest problem with MOOCs is that we don't actually use them to their full potential.
 
 Anecdotally, it's accepted that little more than 2% of MOOCs started are ever properly finished. I know I'm guilty of leaving a few in the 98% part of that. Self-managing your education means not having the same level of accountability over completing projects, lessons and tasks as you would have with actual tutors and deadlines to meet.
 

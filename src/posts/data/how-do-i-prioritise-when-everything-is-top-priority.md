@@ -30,9 +30,9 @@ Too many people piling in. Dead bodies piling up. And you in the middle of it al
 
 I may sound like a broken record continually going back over the same topic of dealing with the urgency (or perceived urgency) of demands that will come at you in the most stressful of ways as a data analyst.
 
-We've covered some tactics for dealing with a difficult customer who makes their own [poor planning your emergency](/urgenturgenturgent-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency).
+We've covered some tactics for dealing with a difficult customer who makes their own [poor planning your emergency](/urgenturgenturgent-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency/).
 
-As part of the [Frustrations Of The Data Analyst Life series](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them), I took another go at that in the event that they keep on doing it over and over again and [how to deal with that situation](/how-to-deal-with-the-urgent!-urgent!-urgent!-boy-who-cried-wolf).
+As part of the [Frustrations Of The Data Analyst Life series](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them/), I took another go at that in the event that they keep on doing it over and over again and [how to deal with that situation](/how-to-deal-with-the-urgent-urgent-urgent-boy-who-cried-wolf/).
 
 What I'm talking about now goes beyond the single pain in the arse customer who keeps pulling the same Urgent! Urgent! Urgent! shit on you. This is when you find **EVERYONE** in the company does it – **all of the time**.
 

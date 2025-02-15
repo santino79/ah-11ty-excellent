@@ -6,7 +6,7 @@ tags: ['data']
 image: '/assets/images/blog/barn-tools.jpg'
 alt: 'Tools in a barn'
 ---
-> **_This is part 2 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)&#8220;_**
+> **_This is part 2 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/frustrations-of-the-data-analyst-lifeand-how-to-fix-them/)&#8220;_**
 
 ## The rise of Just Do It Yourself
 
@@ -96,4 +96,4 @@ Uncle Ben knew. Disregard his advice at your peril.
 
 &nbsp;
 
-[-> Read Frustration #3: How To Deal With The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/how-to-deal-with-the-urgent!-urgent!-urgent!-boy-who-cried-wolf/)
+[-> Read Frustration #3: How To Deal With The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/how-to-deal-with-the-urgent-urgent-urgent-boy-who-cried-wolf/)

@@ -78,8 +78,8 @@ I'm going to build up a list of the best online SQL courses, training, resources
 
 ## Best Online SQL Resources and Articles.
 
-1. **Helen Anderson** writes about SQL and databases on her [own blog](http://www.helenanderson.co.nz/) and on [Dev.to](https://dev.to/helenanders26). (She also did a [Q&A](https://alanhylands.com/analysts-assemble-qa-helen-anderson) with me here about her career and data journey so far.)
+1. **Helen Anderson** writes about SQL and databases on her [own blog](http://www.helenanderson.co.nz/) and on [Dev.to](https://dev.to/helenanders26). (She also did a [Q&A](/qanda-with-helen-anderson-bi-data-analyst-and-technical-consultant/) with me here about her career and data journey so far.)
 
-2. **Randy Au** is a regular contributor to [Towards Data Science](https://towardsdatascience.com/@Randy_Au) and font of all knowledge on small team data science skills including SQL. (Randy also did a [Q&A](https://alanhylands.com/analysts-assemble-qa-randy-au) with me here last year.)
+2. **Randy Au** is a regular contributor to [Towards Data Science](https://towardsdatascience.com/@Randy_Au) and font of all knowledge on small team data science skills including SQL. (Randy also did a [Q&A](/qanda-with-randy-au-quantitative-ux-researcher/) with me here last year.)
 
-3. **Katie Kodes** is a top class Salesforce and Python developer who also shares some excellent [resources on SQL](https://katiekodes.com/sql-every-join/). Check out [Katie's Q&A](https://alanhylands.com/analysts-assemble-qa-with-katie-kodes) here for more background on her data career and skills.
+3. **Katie Kodes** is a top class Salesforce and Python developer who also shares some excellent [resources on SQL](https://katiekodes.com/sql-every-join/). Check out [Katie's Q&A](/qanda-with-katie-kodes-salesforce-and-python-integrations-programmer/) here for more background on her data career and skills.
